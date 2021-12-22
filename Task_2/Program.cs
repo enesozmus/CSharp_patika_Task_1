@@ -2,7 +2,7 @@
 
 namespace Task_2
 {
-    class Program_2
+    class Program
     {
         public static void Main(string[] args)
         {
